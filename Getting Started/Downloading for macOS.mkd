@@ -1,0 +1,34 @@
+1. Go to https://www.sagemath.org/
+
+2. Click on the "Install" button.
+ 
+   <img width="315" alt="Screen Shot 2024-09-30 at 10 48 31 AM" src="https://github.com/user-attachments/assets/e7a76cdf-2a6f-48ba-9c2b-af071027d340">
+
+3. Under the "macOS" section, click "binary build of SageMath".
+   
+   *Optionally, you can also "Install from Source Code"*
+   
+   <img width="713" alt="Screen Shot 2024-09-30 at 10 32 16 AM" src="https://github.com/user-attachments/assets/1796cfd9-d4bf-4bbf-89c8-edf10486f8c0">
+
+4. Download "SageMath-10.4_arm64.dmg" or "SageMath-10.4_x86_64.dmg"
+ 
+   <img width="586" alt="Screen Shot 2024-09-30 at 10 52 00 AM" src="https://github.com/user-attachments/assets/0e1a0920-6f41-4ca9-8258-f87b80413a2d">
+
+5. Once downloaded, open the .dmg file. You should get a pop-up that looks like the image below. Follow the instructions shown. (More clarification below if needed.)
+
+  <img width="582" alt="Screen Shot 2024-09-30 at 10 53 43 AM" src="https://github.com/user-attachments/assets/1a69cae0-c86e-412b-9d59-0bd67230b485">
+
+    i. Open you "Applications" folder.
+  
+    ii. Search for "SageMath". You should see an application that looks like the icon shown in the image above.
+
+    iii. Move this icon to your Applications folder. 
+
+6. Open the SageMath application and follow the instructions. Once completed, you have successfully downloaded SageMath. 
+
+
+
+
+
+
+  
