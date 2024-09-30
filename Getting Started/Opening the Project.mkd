@@ -1,0 +1,12 @@
+1. Download this repository to your machine.
+
+   Instructions can be found on this website if you are unfamiliar.
+   https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github
+
+2. Once downloaded/cloned, open the SageMath application.
+   
+   <img width="379" alt="Screen Shot 2024-09-30 at 11 09 10 AM" src="https://github.com/user-attachments/assets/63947838-de2f-41c2-8cf2-51bfc79b6a2d">
+
+3. Under "using notebooks from", go to the location of your downloaded repository on your machine. Finally, click "Launch". 
+
+  A jupyter notebook should launch on a browser with all of the files that you downloaded.
